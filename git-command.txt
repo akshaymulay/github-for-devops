@@ -1,0 +1,10 @@
+   2 python test.py- create python file
+   3 git init->creat/setup local version control system on local machine
+   4 git status->to check untracked files red
+   5 git add test.py->to add file in stage green
+   6 git status-
+   7 git commit -m 'My first test file'->to commit or send the stage code to tracked
+   8 git status
+   9 history
+  10 rm test.py->remove the file
+  11 git restore test.py->restore it again
