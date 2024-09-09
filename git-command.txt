@@ -18,3 +18,5 @@
 
 some new changes
 yessssssssssssssssss
+
+yes i want to learn git stash
