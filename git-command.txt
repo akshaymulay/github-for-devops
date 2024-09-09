@@ -15,3 +15,5 @@
   git fork->create a another copy of the current repository on github
   we can copy our as well as others repo in out github
   git clone->is the same thing to copy the repo but its get copied on our local machine
+
+some new changes
