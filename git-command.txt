@@ -8,6 +8,10 @@
    9 history
   10 rm test.py->remove the file
   11 git restore test.py->restore it again
+  git remote add 
   git remote -v->to check the url where we will push fetch the data
   git remote set-url origin https://key@github.com/username/repoName.git->to set url vai token
   git push origin master->to push the local master data to master repo in remote side git
+  git fork->create a another copy of the current repository on github
+  we can copy our as well as others repo in out github
+  git clone->is the same thing to copy the repo but its get copied on our local machine
