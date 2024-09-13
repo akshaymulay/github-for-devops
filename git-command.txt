@@ -20,3 +20,28 @@ some new changes
 yessssssssssssssssss
 
 yes i want to learn git stash
+
+
+//When you have uncommitted changes in your local file and there are also changes on the remote repository (Git) that affect the same file, you need to carefully manage these changes to avoid conflicts and data loss.
+
+step 1-:temporarly remove the local changes by using git stash
+step 2-:take a pull from remote master
+step 3:git stash popup->to regain tempororly hidden changes
+
+
+git branch
+->to list/show the current branch
+
+git branch 'branch name'
+to create new branch
+
+git switch 'branch'
+
+to switch the branch
+
+purpose of branches are so many developer work on same project
+we divide the project tasks
+each individual work on there tasks
+so to avoid conflict on one record or place
+
+each individual can create there own branch 
